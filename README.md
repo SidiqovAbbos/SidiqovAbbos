@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate 'any kind of interesting projects'
 - 📫 How to reach me 'skype: live:abbosidiqov'
 
-[![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidiqovAbbos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidiqovAbbos)](https://github.com/SidiqovAbbos/github-readme-stats)
 
 <!---
 SidiqovAbbos/SidiqovAbbos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
