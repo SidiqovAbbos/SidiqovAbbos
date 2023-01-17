@@ -6,6 +6,8 @@
 
 ![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidiqovAbbos&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidiqovAbbos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
