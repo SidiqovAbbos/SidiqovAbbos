@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abbos Sidiqov
 - 👀 I’m interested in 'Full Stack techs ('.NET | NodeJS' & Angular)'
-- 🌱 I’m currently learning 'NodeJS & MongoDB'
+- 🌱 I’m currently learning 'Dart & Flutter 🎯'
 - 💞️ I’m looking to collaborate 'any kind of interesting projects'
 - 📫 How to reach me 'skype: live:abbosidiqov'
 
