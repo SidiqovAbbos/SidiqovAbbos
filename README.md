@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Abbos Sidiqov
-- 👀 I’m interested in 'Full Stack techs ('.NET | NodeJS' & Angular)'
-- 🌱 I’m currently learning 'Dart & Flutter 🎯'
-- 💞️ I’m looking to collaborate 'any kind of interesting projects'
-- 📫 How to reach me 'skype: live:abbosidiqov'
+- 👀 I’m interested in 'Full Stack techs ('.NET | NodeJS' & Angular & Flutter)'
 
 ![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidiqovAbbos&show_icons=true&theme=radical)
 
